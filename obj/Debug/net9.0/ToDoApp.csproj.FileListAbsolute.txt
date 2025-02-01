@@ -1,0 +1,14 @@
+D:\Coding\DotNet\ToDoApp\bin\Debug\net9.0\ToDoApp.exe
+D:\Coding\DotNet\ToDoApp\bin\Debug\net9.0\ToDoApp.deps.json
+D:\Coding\DotNet\ToDoApp\bin\Debug\net9.0\ToDoApp.runtimeconfig.json
+D:\Coding\DotNet\ToDoApp\bin\Debug\net9.0\ToDoApp.dll
+D:\Coding\DotNet\ToDoApp\bin\Debug\net9.0\ToDoApp.pdb
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\ToDoApp.AssemblyInfoInputs.cache
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\ToDoApp.AssemblyInfo.cs
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\ToDoApp.csproj.CoreCompileInputs.cache
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\ToDoApp.dll
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\refint\ToDoApp.dll
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\ToDoApp.pdb
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\ToDoApp.genruntimeconfig.cache
+D:\Coding\DotNet\ToDoApp\obj\Debug\net9.0\ref\ToDoApp.dll
